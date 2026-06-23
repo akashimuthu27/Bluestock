@@ -1,0 +1,5 @@
+category_id,category_name,description
+EQ_LC,Equity - Large Cap,Invests primarily in large-cap stocks for long-term growth.
+EQ_SC,Equity - Small Cap,Invests in small-cap companies with high growth potential and higher volatility.
+DB_LQ,Debt - Liquid,Low-risk debt instruments with short maturities.
+HY_BA,Hybrid - Balanced Advantage,Dynamically manages equity and debt allocation.
