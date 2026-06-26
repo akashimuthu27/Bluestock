@@ -1,73 +1,91 @@
-# Day 2: Data Cleaning and Financial EDA
+# Day 2: Data Cleaning & SQLite Database Loading
 
-This sub-repository folder contains the pipeline and notebooks for **Day 2: Data Cleaning & Financial EDA** of the Bluestock project.
+This sub-repository contains the pipeline, SQL scripts, database, and documentation for **Day 2: Data Cleaning & SQLite Database Loading** of the Bluestock Internship.
 
 ## Objectives
-1. **Deduplication**: Clean all duplicate rows from datasets.
-2. **Missing Value Imputation**: Handle missing fields in metadata and continuous timeseries NAV nulls.
-3. **Outlier Detection**: Filter out extreme NAV data spikes using rolling Z-scores.
-4. **Structural Anomaly Resolution**: Programmatically scale historical decimals (100x shift breaks).
-5. **Feature Engineering**: Compute Compound Annual Growth Rate (CAGR), Annualized Volatility, Sharpe Ratio, and Maximum Drawdown.
-6. **Exploratory Data Analysis (EDA)**: Produce visual insights in an interactive Jupyter Notebook.
+1. **Data Cleaning**: Parse dates, sort, forward-fill missing NAV values for weekends/holidays, deduplicate, validate amounts/NAVs, coerce return types, and flag expense ratio anomalies.
+2. **Star Schema Database**: Design a relational star schema database (`bluestock_mf.db`) with 2 dimension tables and 4 fact tables, maintaining full key relationships and constraints.
+3. **Automated Loading**: Implement a Python script using SQLAlchemy to create the schema and load the 10 cleaned datasets, verifying row count integrity.
+4. **SQL Analytics**: Write and verify 10 analytical SQL queries covering fund performance, retail transaction trends, geographical contributions, and database completeness.
+5. **Documentation**: Create a comprehensive data dictionary defining tables, data types, business logic, and cleaning rules.
 
 ---
 
 ## Folder Structure
+
 ```text
 Day 2/
 ├── data/
-│   ├── raw/                  # 10 raw CSV datasets copied from Day 1
-│   └── processed/            # Cleaned datasets + computed performance metrics
-├── notebooks/
-│   └── day2_eda.ipynb        # Jupyter Notebook executing financial EDA
+│   ├── raw/                      # Raw dirty CSV datasets (10 files)
+│   └── processed/                # 10 cleaned CSV datasets
+├── sql/
+│   ├── schema.sql                # SQLite Star Schema DDL
+│   └── queries.sql               # 10 analytical SQL queries
 ├── reports/
-│   ├── day2_cleaning_report.md  # Profiling, outlier, and CAGR summary report
-│   ├── nav_growth_trends.png
-│   ├── performance_metrics_comparison.png
-│   └── returns_correlation_heatmap.png
+│   └── data_dictionary.md        # Column-level database documentation
 ├── scripts/
-│   ├── data_cleaning.py      # Cleans datasets, handles zero NAVs & 100x jumps
-│   ├── feature_engineering.py # Computes CAGR, Volatility, Sharpe, and Drawdowns
-│   └── generate_charts.py    # Generates PNG plots for report embedding
-├── requirements.txt          # Python packages
-└── README.md                 # Local documentation
+│   ├── generate_dirty_data.py    # Generates raw dirty datasets for transactions & performance
+│   ├── data_cleaning.py          # Cleans all 10 datasets according to rules
+│   ├── load_to_sqlite.py         # Connects to SQLite and loads data via SQLAlchemy
+│   └── test_queries.py           # Verification script running the 10 analytical queries
+├── bluestock_mf.db               # Pre-loaded SQLite Database
+├── requirements.txt              # Project dependencies
+└── README.md                     # Project documentation
 ```
 
 ---
 
-## Technical Implementations
+## Execution Guide
 
-### 1. CAGR (Compound Annual Growth Rate)
-We annualize the total return of each fund over its active lifespan:
-$$CAGR = \left(\frac{\text{Ending NAV}}{\text{Beginning NAV}}\right)^{\frac{365.25}{\text{Days Active}}} - 1$$
-
-### 2. Annualized Volatility
-Measures timeseries dispersion (daily standard deviation annualized):
-$$\text{Volatility} = \text{StDev}(R_t) \times \sqrt{252}$$
-Where $R_t$ represents the daily percentage returns of NAV.
-
-### 3. Sharpe Ratio
-Measures risk-adjusted performance using an Indian market risk-free rate ($R_f = 6.0\%$):
-$$\text{Sharpe} = \frac{\text{CAGR} - R_f}{\text{Volatility}}$$
-
----
-
-## How to Run
-
-Navigate to the `Day 2` folder:
-```powershell
-cd "C:\Users\AKASH\Desktop\BLUESTOCK\Day 2"
+### 1. Install Dependencies
+Ensure you have the required packages installed:
+```bash
+pip install -r requirements.txt
+pip install sqlalchemy
 ```
 
-Execute the pipeline in sequence:
-```powershell
-# 1. Clean data, impute nulls, resolve zero NAVs and 100x breaks
+### 2. Generate Raw Dirty Data
+Create the raw datasets containing realistic anomalies:
+```bash
+python scripts/generate_dirty_data.py
+```
+
+### 3. Run Data Cleaning Pipeline
+Clean all 10 datasets, forward-filling NAV gaps and standardizing columns:
+```bash
 python scripts/data_cleaning.py
-
-# 2. Compute CAGR, Volatility, Sharpe, and Drawdowns
-python scripts/feature_engineering.py
-
-# 3. Generate PNG visualizations for reports
-python scripts/generate_charts.py
 ```
-*Note: You can open and run `notebooks/day2_eda.ipynb` directly in VS Code to interactively view the plots.*
+
+### 4. Load Data into SQLite Database
+Initialize the star schema and load the cleaned CSV data:
+```bash
+python scripts/load_to_sqlite.py
+```
+
+### 5. Verify SQL Queries
+Execute and print the output of the 10 analytical queries:
+```bash
+python scripts/test_queries.py
+```
+
+---
+
+## Star Schema Architecture
+
+The SQLite database `bluestock_mf.db` implements the following relational star schema:
+* **`dim_fund`**: Scheme codes, names, fund house, categories, and risk grades.
+* **`dim_date`**: Calendar dates broken down by day, month, year, quarter, and day name.
+* **`fact_nav`**: Daily Net Asset Value (NAV) records, with weekend gaps forward-filled.
+* **`fact_transactions`**: Aligned investor purchase, SIP, and redemption transactions.
+* **`fact_performance`**: Coerced annualized returns (CAGR) and expense ratios with anomaly flags.
+* **`fact_aum`**: Consolidated yearly Assets Under Management (AUM) per fund house.
+
+---
+
+## Deliverables Completed
+- **10 Cleaned CSVs**: Located in `data/processed/`
+- **SQLite Database**: `bluestock_mf.db` (fully populated and verified)
+- **Star Schema DDL**: `sql/schema.sql`
+- **10 Analytical Queries**: `sql/queries.sql`
+- **Data Dictionary**: `reports/data_dictionary.md`
+- **Git Commit & Sync**: Pushed to the remote repository
