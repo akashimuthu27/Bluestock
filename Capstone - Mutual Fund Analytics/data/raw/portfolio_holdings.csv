@@ -1,0 +1,392 @@
+scheme_name,stock_ticker,stock_name,sector,weight_pct
+SBI Mutual Fund Equity Fund 1,SBIN,State Bank of India,Banking & Financials,13.85
+SBI Mutual Fund Equity Fund 1,HINDALCO,Hindalco Industries Ltd,Metals,0.9
+SBI Mutual Fund Equity Fund 1,COALINDIA,Coal India Ltd,Energy,5.27
+SBI Mutual Fund Equity Fund 1,ONGC,Oil & Natural Gas Corp Ltd,Energy,3.36
+SBI Mutual Fund Equity Fund 1,ITC,ITC Ltd,FMCG,1.94
+SBI Mutual Fund Equity Fund 1,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,10.13
+SBI Mutual Fund Equity Fund 1,HCLTECH,HCL Technologies Ltd,IT,0.14
+SBI Mutual Fund Equity Fund 1,POWERGRID,Power Grid Corp of India Ltd,Energy,6.01
+SBI Mutual Fund Equity Fund 1,MARUTI,Maruti Suzuki India Ltd,Auto,5.55
+SBI Mutual Fund Equity Fund 1,AXISBANK,Axis Bank Ltd,Banking & Financials,7.45
+SBI Mutual Fund Equity Fund 1,LT,Larsen & Toubro Ltd,Infrastructure,9.17
+SBI Mutual Fund Equity Fund 1,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,2.52
+SBI Mutual Fund Equity Fund 1,JIOFIN,Jio Financial Services Ltd,Banking & Financials,4.64
+SBI Mutual Fund Equity Fund 1,WIPRO,Wipro Ltd,IT,3.53
+SBI Mutual Fund Equity Fund 1,TITAN,Titan Company Ltd,FMCG,3.7
+SBI Mutual Fund Equity Fund 1,TATAMOTORS,Tata Motors Ltd,Auto,0.1
+SBI Mutual Fund Equity Fund 1,HINDUNILVR,Hindustan Unilever Ltd,FMCG,13.58
+SBI Mutual Fund Equity Fund 1,PIDILITIND,Pidilite Industries Ltd,Chemicals,0.73
+SBI Mutual Fund Equity Fund 1,HDFCBANK,HDFC Bank Ltd,Banking & Financials,2.21
+SBI Mutual Fund Equity Fund 1,CASH,Cash & Cash Equivalents,Cash,5.2
+HDFC Mutual Fund Equity Fund 2,ONGC,Oil & Natural Gas Corp Ltd,Energy,1.79
+HDFC Mutual Fund Equity Fund 2,PIDILITIND,Pidilite Industries Ltd,Chemicals,1.78
+HDFC Mutual Fund Equity Fund 2,AXISBANK,Axis Bank Ltd,Banking & Financials,5.58
+HDFC Mutual Fund Equity Fund 2,TATASTEEL,Tata Steel Ltd,Metals,2.24
+HDFC Mutual Fund Equity Fund 2,LTIM,LTIMindtree Ltd,IT,3.69
+HDFC Mutual Fund Equity Fund 2,TITAN,Titan Company Ltd,FMCG,3.71
+HDFC Mutual Fund Equity Fund 2,HDFCBANK,HDFC Bank Ltd,Banking & Financials,1.23
+HDFC Mutual Fund Equity Fund 2,HINDUNILVR,Hindustan Unilever Ltd,FMCG,11.85
+HDFC Mutual Fund Equity Fund 2,CIPLA,Cipla Ltd,Pharmaceuticals,1.09
+HDFC Mutual Fund Equity Fund 2,JIOFIN,Jio Financial Services Ltd,Banking & Financials,5.33
+HDFC Mutual Fund Equity Fund 2,COALINDIA,Coal India Ltd,Energy,2.86
+HDFC Mutual Fund Equity Fund 2,NTPC,NTPC Ltd,Energy,3.68
+HDFC Mutual Fund Equity Fund 2,M&M,Mahindra & Mahindra Ltd,Auto,5.5
+HDFC Mutual Fund Equity Fund 2,APOLLOHOSP,Apollo Hospitals Enterprise Ltd,Pharmaceuticals,14.72
+HDFC Mutual Fund Equity Fund 2,TATACHEM,Tata Chemicals Ltd,Chemicals,0.01
+HDFC Mutual Fund Equity Fund 2,BHARTIARTL,Bharti Airtel Ltd,Telecom,5.87
+HDFC Mutual Fund Equity Fund 2,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,0.8
+HDFC Mutual Fund Equity Fund 2,POWERGRID,Power Grid Corp of India Ltd,Energy,6.88
+HDFC Mutual Fund Equity Fund 2,NESTLEIND,Nestle India Ltd,FMCG,10.11
+HDFC Mutual Fund Equity Fund 2,MARUTI,Maruti Suzuki India Ltd,Auto,3.55
+HDFC Mutual Fund Equity Fund 2,TATAMOTORS,Tata Motors Ltd,Auto,2.91
+HDFC Mutual Fund Equity Fund 2,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,0.22
+HDFC Mutual Fund Equity Fund 2,CASH,Cash & Cash Equivalents,Cash,4.61
+ICICI Prudential Mutual Fund Equity Fund 3,TATASTEEL,Tata Steel Ltd,Metals,1.28
+ICICI Prudential Mutual Fund Equity Fund 3,ITC,ITC Ltd,FMCG,7.8
+ICICI Prudential Mutual Fund Equity Fund 3,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,12.38
+ICICI Prudential Mutual Fund Equity Fund 3,HINDALCO,Hindalco Industries Ltd,Metals,1.57
+ICICI Prudential Mutual Fund Equity Fund 3,PIDILITIND,Pidilite Industries Ltd,Chemicals,9.79
+ICICI Prudential Mutual Fund Equity Fund 3,BHARTIARTL,Bharti Airtel Ltd,Telecom,1.06
+ICICI Prudential Mutual Fund Equity Fund 3,M&M,Mahindra & Mahindra Ltd,Auto,2.71
+ICICI Prudential Mutual Fund Equity Fund 3,NESTLEIND,Nestle India Ltd,FMCG,9.02
+ICICI Prudential Mutual Fund Equity Fund 3,SBIN,State Bank of India,Banking & Financials,3.42
+ICICI Prudential Mutual Fund Equity Fund 3,TITAN,Titan Company Ltd,FMCG,0.05
+ICICI Prudential Mutual Fund Equity Fund 3,HDFCBANK,HDFC Bank Ltd,Banking & Financials,11.29
+ICICI Prudential Mutual Fund Equity Fund 3,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,1.7
+ICICI Prudential Mutual Fund Equity Fund 3,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,12.96
+ICICI Prudential Mutual Fund Equity Fund 3,WIPRO,Wipro Ltd,IT,1.97
+ICICI Prudential Mutual Fund Equity Fund 3,ASIANPAINT,Asian Paints Ltd,FMCG,1.97
+ICICI Prudential Mutual Fund Equity Fund 3,COALINDIA,Coal India Ltd,Energy,14.43
+ICICI Prudential Mutual Fund Equity Fund 3,CASH,Cash & Cash Equivalents,Cash,6.6
+Nippon India Mutual Fund Equity Fund 4,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,0.41
+Nippon India Mutual Fund Equity Fund 4,CIPLA,Cipla Ltd,Pharmaceuticals,1.04
+Nippon India Mutual Fund Equity Fund 4,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,9.75
+Nippon India Mutual Fund Equity Fund 4,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,0.82
+Nippon India Mutual Fund Equity Fund 4,NTPC,NTPC Ltd,Energy,7.59
+Nippon India Mutual Fund Equity Fund 4,LTIM,LTIMindtree Ltd,IT,1.85
+Nippon India Mutual Fund Equity Fund 4,HCLTECH,HCL Technologies Ltd,IT,6.21
+Nippon India Mutual Fund Equity Fund 4,ASIANPAINT,Asian Paints Ltd,FMCG,11.11
+Nippon India Mutual Fund Equity Fund 4,JSWSTEEL,JSW Steel Ltd,Metals,7.5
+Nippon India Mutual Fund Equity Fund 4,TATASTEEL,Tata Steel Ltd,Metals,3.73
+Nippon India Mutual Fund Equity Fund 4,POWERGRID,Power Grid Corp of India Ltd,Energy,0.02
+Nippon India Mutual Fund Equity Fund 4,EICHERMOT,Eicher Motors Ltd,Auto,0.72
+Nippon India Mutual Fund Equity Fund 4,JIOFIN,Jio Financial Services Ltd,Banking & Financials,7.4
+Nippon India Mutual Fund Equity Fund 4,TITAN,Titan Company Ltd,FMCG,0.49
+Nippon India Mutual Fund Equity Fund 4,ITC,ITC Ltd,FMCG,17.49
+Nippon India Mutual Fund Equity Fund 4,GRASIM,Grasim Industries Ltd,Infrastructure,17.0
+Nippon India Mutual Fund Equity Fund 4,ONGC,Oil & Natural Gas Corp Ltd,Energy,1.68
+Nippon India Mutual Fund Equity Fund 4,NESTLEIND,Nestle India Ltd,FMCG,0.17
+Nippon India Mutual Fund Equity Fund 4,CASH,Cash & Cash Equivalents,Cash,5.01
+Axis Mutual Fund Equity Fund 5,ASIANPAINT,Asian Paints Ltd,FMCG,2.83
+Axis Mutual Fund Equity Fund 5,EICHERMOT,Eicher Motors Ltd,Auto,8.47
+Axis Mutual Fund Equity Fund 5,HINDUNILVR,Hindustan Unilever Ltd,FMCG,5.21
+Axis Mutual Fund Equity Fund 5,HDFCBANK,HDFC Bank Ltd,Banking & Financials,3.0
+Axis Mutual Fund Equity Fund 5,JSWSTEEL,JSW Steel Ltd,Metals,5.38
+Axis Mutual Fund Equity Fund 5,SBIN,State Bank of India,Banking & Financials,8.94
+Axis Mutual Fund Equity Fund 5,GRASIM,Grasim Industries Ltd,Infrastructure,11.25
+Axis Mutual Fund Equity Fund 5,MARUTI,Maruti Suzuki India Ltd,Auto,2.48
+Axis Mutual Fund Equity Fund 5,TATACHEM,Tata Chemicals Ltd,Chemicals,4.75
+Axis Mutual Fund Equity Fund 5,HINDALCO,Hindalco Industries Ltd,Metals,2.65
+Axis Mutual Fund Equity Fund 5,RELIANCE,Reliance Industries Ltd,Energy,8.21
+Axis Mutual Fund Equity Fund 5,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,0.05
+Axis Mutual Fund Equity Fund 5,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,1.92
+Axis Mutual Fund Equity Fund 5,APOLLOHOSP,Apollo Hospitals Enterprise Ltd,Pharmaceuticals,8.69
+Axis Mutual Fund Equity Fund 5,WIPRO,Wipro Ltd,IT,3.3
+Axis Mutual Fund Equity Fund 5,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,10.31
+Axis Mutual Fund Equity Fund 5,TCS,Tata Consultancy Services Ltd,IT,7.21
+Axis Mutual Fund Equity Fund 5,CASH,Cash & Cash Equivalents,Cash,5.36
+Kotak Mahindra Mutual Fund Equity Fund 6,BHARTIARTL,Bharti Airtel Ltd,Telecom,0.78
+Kotak Mahindra Mutual Fund Equity Fund 6,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,1.35
+Kotak Mahindra Mutual Fund Equity Fund 6,CIPLA,Cipla Ltd,Pharmaceuticals,1.47
+Kotak Mahindra Mutual Fund Equity Fund 6,ASIANPAINT,Asian Paints Ltd,FMCG,8.76
+Kotak Mahindra Mutual Fund Equity Fund 6,LT,Larsen & Toubro Ltd,Infrastructure,2.54
+Kotak Mahindra Mutual Fund Equity Fund 6,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,3.13
+Kotak Mahindra Mutual Fund Equity Fund 6,LTIM,LTIMindtree Ltd,IT,7.83
+Kotak Mahindra Mutual Fund Equity Fund 6,NESTLEIND,Nestle India Ltd,FMCG,13.39
+Kotak Mahindra Mutual Fund Equity Fund 6,GRASIM,Grasim Industries Ltd,Infrastructure,4.39
+Kotak Mahindra Mutual Fund Equity Fund 6,HINDUNILVR,Hindustan Unilever Ltd,FMCG,0.34
+Kotak Mahindra Mutual Fund Equity Fund 6,TATAMOTORS,Tata Motors Ltd,Auto,9.06
+Kotak Mahindra Mutual Fund Equity Fund 6,INFY,Infosys Ltd,IT,9.89
+Kotak Mahindra Mutual Fund Equity Fund 6,JSWSTEEL,JSW Steel Ltd,Metals,3.52
+Kotak Mahindra Mutual Fund Equity Fund 6,HDFCBANK,HDFC Bank Ltd,Banking & Financials,0.01
+Kotak Mahindra Mutual Fund Equity Fund 6,TITAN,Titan Company Ltd,FMCG,7.27
+Kotak Mahindra Mutual Fund Equity Fund 6,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,12.79
+Kotak Mahindra Mutual Fund Equity Fund 6,ONGC,Oil & Natural Gas Corp Ltd,Energy,2.12
+Kotak Mahindra Mutual Fund Equity Fund 6,ICICIBANK,ICICI Bank Ltd,Banking & Financials,6.16
+Kotak Mahindra Mutual Fund Equity Fund 6,CASH,Cash & Cash Equivalents,Cash,5.21
+DSP Mutual Fund Equity Fund 7,TATACHEM,Tata Chemicals Ltd,Chemicals,0.01
+DSP Mutual Fund Equity Fund 7,TATAMOTORS,Tata Motors Ltd,Auto,8.85
+DSP Mutual Fund Equity Fund 7,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,0.76
+DSP Mutual Fund Equity Fund 7,MARUTI,Maruti Suzuki India Ltd,Auto,0.28
+DSP Mutual Fund Equity Fund 7,CIPLA,Cipla Ltd,Pharmaceuticals,1.53
+DSP Mutual Fund Equity Fund 7,COALINDIA,Coal India Ltd,Energy,5.52
+DSP Mutual Fund Equity Fund 7,SBIN,State Bank of India,Banking & Financials,4.76
+DSP Mutual Fund Equity Fund 7,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,3.81
+DSP Mutual Fund Equity Fund 7,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,5.9
+DSP Mutual Fund Equity Fund 7,TATASTEEL,Tata Steel Ltd,Metals,2.37
+DSP Mutual Fund Equity Fund 7,INFY,Infosys Ltd,IT,2.89
+DSP Mutual Fund Equity Fund 7,EICHERMOT,Eicher Motors Ltd,Auto,1.81
+DSP Mutual Fund Equity Fund 7,GRASIM,Grasim Industries Ltd,Infrastructure,4.64
+DSP Mutual Fund Equity Fund 7,PIDILITIND,Pidilite Industries Ltd,Chemicals,9.66
+DSP Mutual Fund Equity Fund 7,ITC,ITC Ltd,FMCG,5.53
+DSP Mutual Fund Equity Fund 7,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,14.69
+DSP Mutual Fund Equity Fund 7,ICICIBANK,ICICI Bank Ltd,Banking & Financials,5.21
+DSP Mutual Fund Equity Fund 7,BHARTIARTL,Bharti Airtel Ltd,Telecom,1.74
+DSP Mutual Fund Equity Fund 7,JSWSTEEL,JSW Steel Ltd,Metals,5.53
+DSP Mutual Fund Equity Fund 7,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,3.58
+DSP Mutual Fund Equity Fund 7,NESTLEIND,Nestle India Ltd,FMCG,5.22
+DSP Mutual Fund Equity Fund 7,TCS,Tata Consultancy Services Ltd,IT,0.8
+DSP Mutual Fund Equity Fund 7,CASH,Cash & Cash Equivalents,Cash,4.89
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,13.03
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,GRASIM,Grasim Industries Ltd,Infrastructure,1.7
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,JIOFIN,Jio Financial Services Ltd,Banking & Financials,0.08
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,RELIANCE,Reliance Industries Ltd,Energy,1.58
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,NESTLEIND,Nestle India Ltd,FMCG,8.12
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,7.0
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,1.8
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,LTIM,LTIMindtree Ltd,IT,0.63
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,INFY,Infosys Ltd,IT,3.91
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,COALINDIA,Coal India Ltd,Energy,4.12
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,M&M,Mahindra & Mahindra Ltd,Auto,3.76
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,0.62
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,ONGC,Oil & Natural Gas Corp Ltd,Energy,6.56
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,ICICIBANK,ICICI Bank Ltd,Banking & Financials,0.14
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,TITAN,Titan Company Ltd,FMCG,13.22
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,MARUTI,Maruti Suzuki India Ltd,Auto,8.75
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,TATACHEM,Tata Chemicals Ltd,Chemicals,19.38
+Aditya Birla Sun Life Mutual Fund Equity Fund 8,CASH,Cash & Cash Equivalents,Cash,5.6
+UTI Mutual Fund Equity Fund 9,LTIM,LTIMindtree Ltd,IT,5.72
+UTI Mutual Fund Equity Fund 9,TITAN,Titan Company Ltd,FMCG,8.31
+UTI Mutual Fund Equity Fund 9,PIDILITIND,Pidilite Industries Ltd,Chemicals,0.2
+UTI Mutual Fund Equity Fund 9,TATASTEEL,Tata Steel Ltd,Metals,1.18
+UTI Mutual Fund Equity Fund 9,ICICIBANK,ICICI Bank Ltd,Banking & Financials,0.2
+UTI Mutual Fund Equity Fund 9,INFY,Infosys Ltd,IT,1.9
+UTI Mutual Fund Equity Fund 9,HINDUNILVR,Hindustan Unilever Ltd,FMCG,7.55
+UTI Mutual Fund Equity Fund 9,ITC,ITC Ltd,FMCG,2.74
+UTI Mutual Fund Equity Fund 9,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,6.33
+UTI Mutual Fund Equity Fund 9,EICHERMOT,Eicher Motors Ltd,Auto,1.94
+UTI Mutual Fund Equity Fund 9,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,21.46
+UTI Mutual Fund Equity Fund 9,RELIANCE,Reliance Industries Ltd,Energy,0.51
+UTI Mutual Fund Equity Fund 9,TCS,Tata Consultancy Services Ltd,IT,4.55
+UTI Mutual Fund Equity Fund 9,CIPLA,Cipla Ltd,Pharmaceuticals,4.88
+UTI Mutual Fund Equity Fund 9,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,6.95
+UTI Mutual Fund Equity Fund 9,HCLTECH,HCL Technologies Ltd,IT,0.06
+UTI Mutual Fund Equity Fund 9,HDFCBANK,HDFC Bank Ltd,Banking & Financials,1.61
+UTI Mutual Fund Equity Fund 9,BHARTIARTL,Bharti Airtel Ltd,Telecom,3.11
+UTI Mutual Fund Equity Fund 9,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,3.97
+UTI Mutual Fund Equity Fund 9,M&M,Mahindra & Mahindra Ltd,Auto,0.37
+UTI Mutual Fund Equity Fund 9,NTPC,NTPC Ltd,Energy,8.99
+UTI Mutual Fund Equity Fund 9,CASH,Cash & Cash Equivalents,Cash,7.46
+Tata Mutual Fund Equity Fund 10,TATASTEEL,Tata Steel Ltd,Metals,11.02
+Tata Mutual Fund Equity Fund 10,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,1.58
+Tata Mutual Fund Equity Fund 10,INFY,Infosys Ltd,IT,14.44
+Tata Mutual Fund Equity Fund 10,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,1.51
+Tata Mutual Fund Equity Fund 10,HDFCBANK,HDFC Bank Ltd,Banking & Financials,0.01
+Tata Mutual Fund Equity Fund 10,TATAMOTORS,Tata Motors Ltd,Auto,0.28
+Tata Mutual Fund Equity Fund 10,JSWSTEEL,JSW Steel Ltd,Metals,2.37
+Tata Mutual Fund Equity Fund 10,WIPRO,Wipro Ltd,IT,7.67
+Tata Mutual Fund Equity Fund 10,LT,Larsen & Toubro Ltd,Infrastructure,0.77
+Tata Mutual Fund Equity Fund 10,ITC,ITC Ltd,FMCG,4.34
+Tata Mutual Fund Equity Fund 10,HINDALCO,Hindalco Industries Ltd,Metals,2.06
+Tata Mutual Fund Equity Fund 10,POWERGRID,Power Grid Corp of India Ltd,Energy,20.63
+Tata Mutual Fund Equity Fund 10,ICICIBANK,ICICI Bank Ltd,Banking & Financials,3.03
+Tata Mutual Fund Equity Fund 10,NESTLEIND,Nestle India Ltd,FMCG,10.29
+Tata Mutual Fund Equity Fund 10,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,12.91
+Tata Mutual Fund Equity Fund 10,TCS,Tata Consultancy Services Ltd,IT,1.45
+Tata Mutual Fund Equity Fund 10,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,1.26
+Tata Mutual Fund Equity Fund 10,CASH,Cash & Cash Equivalents,Cash,4.36
+SBI Mutual Fund Equity Fund 11,BHARTIARTL,Bharti Airtel Ltd,Telecom,4.12
+SBI Mutual Fund Equity Fund 11,LTIM,LTIMindtree Ltd,IT,0.52
+SBI Mutual Fund Equity Fund 11,JSWSTEEL,JSW Steel Ltd,Metals,3.42
+SBI Mutual Fund Equity Fund 11,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,0.33
+SBI Mutual Fund Equity Fund 11,GRASIM,Grasim Industries Ltd,Infrastructure,4.67
+SBI Mutual Fund Equity Fund 11,RELIANCE,Reliance Industries Ltd,Energy,0.47
+SBI Mutual Fund Equity Fund 11,TATAMOTORS,Tata Motors Ltd,Auto,8.14
+SBI Mutual Fund Equity Fund 11,EICHERMOT,Eicher Motors Ltd,Auto,0.77
+SBI Mutual Fund Equity Fund 11,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,2.72
+SBI Mutual Fund Equity Fund 11,LT,Larsen & Toubro Ltd,Infrastructure,2.16
+SBI Mutual Fund Equity Fund 11,WIPRO,Wipro Ltd,IT,1.42
+SBI Mutual Fund Equity Fund 11,TITAN,Titan Company Ltd,FMCG,17.69
+SBI Mutual Fund Equity Fund 11,ASIANPAINT,Asian Paints Ltd,FMCG,8.43
+SBI Mutual Fund Equity Fund 11,TATACHEM,Tata Chemicals Ltd,Chemicals,8.32
+SBI Mutual Fund Equity Fund 11,ICICIBANK,ICICI Bank Ltd,Banking & Financials,2.98
+SBI Mutual Fund Equity Fund 11,AXISBANK,Axis Bank Ltd,Banking & Financials,7.83
+SBI Mutual Fund Equity Fund 11,HINDALCO,Hindalco Industries Ltd,Metals,4.04
+SBI Mutual Fund Equity Fund 11,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,3.74
+SBI Mutual Fund Equity Fund 11,JIOFIN,Jio Financial Services Ltd,Banking & Financials,10.19
+SBI Mutual Fund Equity Fund 11,ONGC,Oil & Natural Gas Corp Ltd,Energy,2.55
+SBI Mutual Fund Equity Fund 11,MARUTI,Maruti Suzuki India Ltd,Auto,0.57
+SBI Mutual Fund Equity Fund 11,M&M,Mahindra & Mahindra Ltd,Auto,0.3
+SBI Mutual Fund Equity Fund 11,CASH,Cash & Cash Equivalents,Cash,4.62
+HDFC Mutual Fund Equity Fund 12,APOLLOHOSP,Apollo Hospitals Enterprise Ltd,Pharmaceuticals,6.16
+HDFC Mutual Fund Equity Fund 12,GRASIM,Grasim Industries Ltd,Infrastructure,2.13
+HDFC Mutual Fund Equity Fund 12,TATASTEEL,Tata Steel Ltd,Metals,13.33
+HDFC Mutual Fund Equity Fund 12,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,14.21
+HDFC Mutual Fund Equity Fund 12,LT,Larsen & Toubro Ltd,Infrastructure,4.04
+HDFC Mutual Fund Equity Fund 12,M&M,Mahindra & Mahindra Ltd,Auto,2.05
+HDFC Mutual Fund Equity Fund 12,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,2.42
+HDFC Mutual Fund Equity Fund 12,CIPLA,Cipla Ltd,Pharmaceuticals,1.61
+HDFC Mutual Fund Equity Fund 12,AXISBANK,Axis Bank Ltd,Banking & Financials,5.46
+HDFC Mutual Fund Equity Fund 12,JSWSTEEL,JSW Steel Ltd,Metals,3.62
+HDFC Mutual Fund Equity Fund 12,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,2.6
+HDFC Mutual Fund Equity Fund 12,JIOFIN,Jio Financial Services Ltd,Banking & Financials,3.51
+HDFC Mutual Fund Equity Fund 12,SBIN,State Bank of India,Banking & Financials,0.61
+HDFC Mutual Fund Equity Fund 12,HDFCBANK,HDFC Bank Ltd,Banking & Financials,5.15
+HDFC Mutual Fund Equity Fund 12,HINDALCO,Hindalco Industries Ltd,Metals,3.43
+HDFC Mutual Fund Equity Fund 12,HCLTECH,HCL Technologies Ltd,IT,4.52
+HDFC Mutual Fund Equity Fund 12,COALINDIA,Coal India Ltd,Energy,1.54
+HDFC Mutual Fund Equity Fund 12,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,6.44
+HDFC Mutual Fund Equity Fund 12,BHARTIARTL,Bharti Airtel Ltd,Telecom,3.09
+HDFC Mutual Fund Equity Fund 12,NESTLEIND,Nestle India Ltd,FMCG,0.49
+HDFC Mutual Fund Equity Fund 12,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,5.25
+HDFC Mutual Fund Equity Fund 12,ASIANPAINT,Asian Paints Ltd,FMCG,0.57
+HDFC Mutual Fund Equity Fund 12,CASH,Cash & Cash Equivalents,Cash,7.76
+ICICI Prudential Mutual Fund Equity Fund 13,BHARTIARTL,Bharti Airtel Ltd,Telecom,2.16
+ICICI Prudential Mutual Fund Equity Fund 13,M&M,Mahindra & Mahindra Ltd,Auto,5.95
+ICICI Prudential Mutual Fund Equity Fund 13,JIOFIN,Jio Financial Services Ltd,Banking & Financials,1.55
+ICICI Prudential Mutual Fund Equity Fund 13,TATASTEEL,Tata Steel Ltd,Metals,0.03
+ICICI Prudential Mutual Fund Equity Fund 13,RELIANCE,Reliance Industries Ltd,Energy,7.59
+ICICI Prudential Mutual Fund Equity Fund 13,TCS,Tata Consultancy Services Ltd,IT,3.85
+ICICI Prudential Mutual Fund Equity Fund 13,ITC,ITC Ltd,FMCG,1.31
+ICICI Prudential Mutual Fund Equity Fund 13,TATAMOTORS,Tata Motors Ltd,Auto,3.02
+ICICI Prudential Mutual Fund Equity Fund 13,ICICIBANK,ICICI Bank Ltd,Banking & Financials,3.36
+ICICI Prudential Mutual Fund Equity Fund 13,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,13.07
+ICICI Prudential Mutual Fund Equity Fund 13,EICHERMOT,Eicher Motors Ltd,Auto,0.1
+ICICI Prudential Mutual Fund Equity Fund 13,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,14.67
+ICICI Prudential Mutual Fund Equity Fund 13,AXISBANK,Axis Bank Ltd,Banking & Financials,0.2
+ICICI Prudential Mutual Fund Equity Fund 13,WIPRO,Wipro Ltd,IT,23.98
+ICICI Prudential Mutual Fund Equity Fund 13,HCLTECH,HCL Technologies Ltd,IT,3.89
+ICICI Prudential Mutual Fund Equity Fund 13,HINDUNILVR,Hindustan Unilever Ltd,FMCG,3.23
+ICICI Prudential Mutual Fund Equity Fund 13,LT,Larsen & Toubro Ltd,Infrastructure,7.21
+ICICI Prudential Mutual Fund Equity Fund 13,TITAN,Titan Company Ltd,FMCG,0.15
+ICICI Prudential Mutual Fund Equity Fund 13,CASH,Cash & Cash Equivalents,Cash,4.67
+Nippon India Mutual Fund Equity Fund 14,MARUTI,Maruti Suzuki India Ltd,Auto,0.45
+Nippon India Mutual Fund Equity Fund 14,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,2.91
+Nippon India Mutual Fund Equity Fund 14,APOLLOHOSP,Apollo Hospitals Enterprise Ltd,Pharmaceuticals,3.02
+Nippon India Mutual Fund Equity Fund 14,LT,Larsen & Toubro Ltd,Infrastructure,1.04
+Nippon India Mutual Fund Equity Fund 14,CIPLA,Cipla Ltd,Pharmaceuticals,9.45
+Nippon India Mutual Fund Equity Fund 14,INFY,Infosys Ltd,IT,7.79
+Nippon India Mutual Fund Equity Fund 14,TATACHEM,Tata Chemicals Ltd,Chemicals,9.38
+Nippon India Mutual Fund Equity Fund 14,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,4.22
+Nippon India Mutual Fund Equity Fund 14,NESTLEIND,Nestle India Ltd,FMCG,0.04
+Nippon India Mutual Fund Equity Fund 14,HINDUNILVR,Hindustan Unilever Ltd,FMCG,13.76
+Nippon India Mutual Fund Equity Fund 14,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,13.44
+Nippon India Mutual Fund Equity Fund 14,ICICIBANK,ICICI Bank Ltd,Banking & Financials,4.19
+Nippon India Mutual Fund Equity Fund 14,SBIN,State Bank of India,Banking & Financials,12.52
+Nippon India Mutual Fund Equity Fund 14,JSWSTEEL,JSW Steel Ltd,Metals,1.66
+Nippon India Mutual Fund Equity Fund 14,COALINDIA,Coal India Ltd,Energy,3.89
+Nippon India Mutual Fund Equity Fund 14,RELIANCE,Reliance Industries Ltd,Energy,6.25
+Nippon India Mutual Fund Equity Fund 14,CASH,Cash & Cash Equivalents,Cash,5.99
+Axis Mutual Fund Equity Fund 15,HCLTECH,HCL Technologies Ltd,IT,3.71
+Axis Mutual Fund Equity Fund 15,POWERGRID,Power Grid Corp of India Ltd,Energy,1.19
+Axis Mutual Fund Equity Fund 15,COALINDIA,Coal India Ltd,Energy,11.75
+Axis Mutual Fund Equity Fund 15,ONGC,Oil & Natural Gas Corp Ltd,Energy,3.7
+Axis Mutual Fund Equity Fund 15,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,15.6
+Axis Mutual Fund Equity Fund 15,M&M,Mahindra & Mahindra Ltd,Auto,12.81
+Axis Mutual Fund Equity Fund 15,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,0.43
+Axis Mutual Fund Equity Fund 15,SBIN,State Bank of India,Banking & Financials,1.06
+Axis Mutual Fund Equity Fund 15,TATACHEM,Tata Chemicals Ltd,Chemicals,9.09
+Axis Mutual Fund Equity Fund 15,LT,Larsen & Toubro Ltd,Infrastructure,11.93
+Axis Mutual Fund Equity Fund 15,PIDILITIND,Pidilite Industries Ltd,Chemicals,4.57
+Axis Mutual Fund Equity Fund 15,NTPC,NTPC Ltd,Energy,2.19
+Axis Mutual Fund Equity Fund 15,JSWSTEEL,JSW Steel Ltd,Metals,1.7
+Axis Mutual Fund Equity Fund 15,TATASTEEL,Tata Steel Ltd,Metals,2.71
+Axis Mutual Fund Equity Fund 15,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,1.79
+Axis Mutual Fund Equity Fund 15,WIPRO,Wipro Ltd,IT,3.82
+Axis Mutual Fund Equity Fund 15,BHARTIARTL,Bharti Airtel Ltd,Telecom,6.65
+Axis Mutual Fund Equity Fund 15,CASH,Cash & Cash Equivalents,Cash,5.29
+Kotak Mahindra Mutual Fund Equity Fund 16,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,3.52
+Kotak Mahindra Mutual Fund Equity Fund 16,TCS,Tata Consultancy Services Ltd,IT,1.53
+Kotak Mahindra Mutual Fund Equity Fund 16,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,1.75
+Kotak Mahindra Mutual Fund Equity Fund 16,JSWSTEEL,JSW Steel Ltd,Metals,4.29
+Kotak Mahindra Mutual Fund Equity Fund 16,ICICIBANK,ICICI Bank Ltd,Banking & Financials,9.14
+Kotak Mahindra Mutual Fund Equity Fund 16,HDFCBANK,HDFC Bank Ltd,Banking & Financials,0.92
+Kotak Mahindra Mutual Fund Equity Fund 16,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,10.56
+Kotak Mahindra Mutual Fund Equity Fund 16,HINDUNILVR,Hindustan Unilever Ltd,FMCG,29.7
+Kotak Mahindra Mutual Fund Equity Fund 16,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,2.46
+Kotak Mahindra Mutual Fund Equity Fund 16,EICHERMOT,Eicher Motors Ltd,Auto,1.5
+Kotak Mahindra Mutual Fund Equity Fund 16,JIOFIN,Jio Financial Services Ltd,Banking & Financials,0.19
+Kotak Mahindra Mutual Fund Equity Fund 16,ONGC,Oil & Natural Gas Corp Ltd,Energy,1.45
+Kotak Mahindra Mutual Fund Equity Fund 16,HCLTECH,HCL Technologies Ltd,IT,6.17
+Kotak Mahindra Mutual Fund Equity Fund 16,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,12.64
+Kotak Mahindra Mutual Fund Equity Fund 16,M&M,Mahindra & Mahindra Ltd,Auto,0.03
+Kotak Mahindra Mutual Fund Equity Fund 16,ASIANPAINT,Asian Paints Ltd,FMCG,6.73
+Kotak Mahindra Mutual Fund Equity Fund 16,CASH,Cash & Cash Equivalents,Cash,7.42
+DSP Mutual Fund Equity Fund 17,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,2.29
+DSP Mutual Fund Equity Fund 17,TCS,Tata Consultancy Services Ltd,IT,0.55
+DSP Mutual Fund Equity Fund 17,SBIN,State Bank of India,Banking & Financials,2.95
+DSP Mutual Fund Equity Fund 17,JSWSTEEL,JSW Steel Ltd,Metals,0.24
+DSP Mutual Fund Equity Fund 17,SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,0.33
+DSP Mutual Fund Equity Fund 17,EICHERMOT,Eicher Motors Ltd,Auto,2.26
+DSP Mutual Fund Equity Fund 17,TATASTEEL,Tata Steel Ltd,Metals,4.02
+DSP Mutual Fund Equity Fund 17,JIOFIN,Jio Financial Services Ltd,Banking & Financials,4.29
+DSP Mutual Fund Equity Fund 17,NESTLEIND,Nestle India Ltd,FMCG,3.65
+DSP Mutual Fund Equity Fund 17,AXISBANK,Axis Bank Ltd,Banking & Financials,6.09
+DSP Mutual Fund Equity Fund 17,TATACHEM,Tata Chemicals Ltd,Chemicals,20.66
+DSP Mutual Fund Equity Fund 17,ITC,ITC Ltd,FMCG,5.17
+DSP Mutual Fund Equity Fund 17,CIPLA,Cipla Ltd,Pharmaceuticals,0.89
+DSP Mutual Fund Equity Fund 17,POWERGRID,Power Grid Corp of India Ltd,Energy,9.67
+DSP Mutual Fund Equity Fund 17,MARUTI,Maruti Suzuki India Ltd,Auto,26.29
+DSP Mutual Fund Equity Fund 17,RELIANCE,Reliance Industries Ltd,Energy,1.84
+DSP Mutual Fund Equity Fund 17,ONGC,Oil & Natural Gas Corp Ltd,Energy,1.82
+DSP Mutual Fund Equity Fund 17,CASH,Cash & Cash Equivalents,Cash,6.99
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,LT,Larsen & Toubro Ltd,Infrastructure,2.23
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,ONGC,Oil & Natural Gas Corp Ltd,Energy,1.0
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,INFY,Infosys Ltd,IT,3.19
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,ASIANPAINT,Asian Paints Ltd,FMCG,0.8
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,6.09
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,HDFCBANK,HDFC Bank Ltd,Banking & Financials,29.72
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,HCLTECH,HCL Technologies Ltd,IT,3.88
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,TCS,Tata Consultancy Services Ltd,IT,16.6
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,AXISBANK,Axis Bank Ltd,Banking & Financials,1.01
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,TITAN,Titan Company Ltd,FMCG,0.43
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,JSWSTEEL,JSW Steel Ltd,Metals,3.19
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,LTIM,LTIMindtree Ltd,IT,15.73
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,BHARTIARTL,Bharti Airtel Ltd,Telecom,3.16
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,SBIN,State Bank of India,Banking & Financials,1.36
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,TATACHEM,Tata Chemicals Ltd,Chemicals,6.2
+Aditya Birla Sun Life Mutual Fund Equity Fund 18,CASH,Cash & Cash Equivalents,Cash,5.42
+UTI Mutual Fund Equity Fund 19,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,1.69
+UTI Mutual Fund Equity Fund 19,TATACHEM,Tata Chemicals Ltd,Chemicals,0.29
+UTI Mutual Fund Equity Fund 19,LT,Larsen & Toubro Ltd,Infrastructure,0.58
+UTI Mutual Fund Equity Fund 19,POWERGRID,Power Grid Corp of India Ltd,Energy,1.59
+UTI Mutual Fund Equity Fund 19,ICICIBANK,ICICI Bank Ltd,Banking & Financials,0.38
+UTI Mutual Fund Equity Fund 19,PIDILITIND,Pidilite Industries Ltd,Chemicals,2.15
+UTI Mutual Fund Equity Fund 19,RELIANCE,Reliance Industries Ltd,Energy,13.38
+UTI Mutual Fund Equity Fund 19,LTIM,LTIMindtree Ltd,IT,2.12
+UTI Mutual Fund Equity Fund 19,HINDUNILVR,Hindustan Unilever Ltd,FMCG,11.82
+UTI Mutual Fund Equity Fund 19,AXISBANK,Axis Bank Ltd,Banking & Financials,2.69
+UTI Mutual Fund Equity Fund 19,ONGC,Oil & Natural Gas Corp Ltd,Energy,4.02
+UTI Mutual Fund Equity Fund 19,GRASIM,Grasim Industries Ltd,Infrastructure,13.36
+UTI Mutual Fund Equity Fund 19,HINDALCO,Hindalco Industries Ltd,Metals,4.74
+UTI Mutual Fund Equity Fund 19,WIPRO,Wipro Ltd,IT,0.92
+UTI Mutual Fund Equity Fund 19,TATASTEEL,Tata Steel Ltd,Metals,3.11
+UTI Mutual Fund Equity Fund 19,HDFCBANK,HDFC Bank Ltd,Banking & Financials,11.73
+UTI Mutual Fund Equity Fund 19,BAJAJFINSV,Bajaj Finserv Ltd,Banking & Financials,0.51
+UTI Mutual Fund Equity Fund 19,BHARTIARTL,Bharti Airtel Ltd,Telecom,9.36
+UTI Mutual Fund Equity Fund 19,NTPC,NTPC Ltd,Energy,9.33
+UTI Mutual Fund Equity Fund 19,CASH,Cash & Cash Equivalents,Cash,6.22
+Tata Mutual Fund Equity Fund 20,ULTRACEMCO,UltraTech Cement Ltd,Infrastructure,0.46
+Tata Mutual Fund Equity Fund 20,KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Financials,3.73
+Tata Mutual Fund Equity Fund 20,TATASTEEL,Tata Steel Ltd,Metals,0.12
+Tata Mutual Fund Equity Fund 20,AXISBANK,Axis Bank Ltd,Banking & Financials,7.06
+Tata Mutual Fund Equity Fund 20,LT,Larsen & Toubro Ltd,Infrastructure,0.79
+Tata Mutual Fund Equity Fund 20,ASIANPAINT,Asian Paints Ltd,FMCG,1.43
+Tata Mutual Fund Equity Fund 20,TCS,Tata Consultancy Services Ltd,IT,0.09
+Tata Mutual Fund Equity Fund 20,RELIANCE,Reliance Industries Ltd,Energy,1.67
+Tata Mutual Fund Equity Fund 20,JSWSTEEL,JSW Steel Ltd,Metals,0.24
+Tata Mutual Fund Equity Fund 20,HINDUNILVR,Hindustan Unilever Ltd,FMCG,0.63
+Tata Mutual Fund Equity Fund 20,BAJFINANCE,Bajaj Finance Ltd,Banking & Financials,20.5
+Tata Mutual Fund Equity Fund 20,EICHERMOT,Eicher Motors Ltd,Auto,0.59
+Tata Mutual Fund Equity Fund 20,NTPC,NTPC Ltd,Energy,9.65
+Tata Mutual Fund Equity Fund 20,HINDALCO,Hindalco Industries Ltd,Metals,6.48
+Tata Mutual Fund Equity Fund 20,ICICIBANK,ICICI Bank Ltd,Banking & Financials,2.17
+Tata Mutual Fund Equity Fund 20,DRREDDY,Dr. Reddy's Laboratories Ltd,Pharmaceuticals,12.33
+Tata Mutual Fund Equity Fund 20,COALINDIA,Coal India Ltd,Energy,4.03
+Tata Mutual Fund Equity Fund 20,LTIM,LTIMindtree Ltd,IT,2.19
+Tata Mutual Fund Equity Fund 20,JIOFIN,Jio Financial Services Ltd,Banking & Financials,10.0
+Tata Mutual Fund Equity Fund 20,M&M,Mahindra & Mahindra Ltd,Auto,7.45
+Tata Mutual Fund Equity Fund 20,SBIN,State Bank of India,Banking & Financials,0.52
+Tata Mutual Fund Equity Fund 20,ITC,ITC Ltd,FMCG,2.5
+Tata Mutual Fund Equity Fund 20,CASH,Cash & Cash Equivalents,Cash,5.34
