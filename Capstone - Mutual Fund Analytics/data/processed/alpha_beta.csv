@@ -1,0 +1,41 @@
+scheme_code,scheme_name,beta,alpha_annual,r_squared,p_value
+100000,SBI Mutual Fund Equity Fund 1,0.0117,18.94,0.0001,0.709382
+100001,HDFC Mutual Fund Equity Fund 2,0.0508,17.65,0.002,0.108917
+100002,ICICI Prudential Mutual Fund Equity Fund 3,0.0341,10.72,0.0009,0.289102
+100003,Nippon India Mutual Fund Equity Fund 4,-0.0125,6.66,0.0001,0.692273
+100004,Axis Mutual Fund Equity Fund 5,0.006,-2.15,0.0,0.855502
+100005,Kotak Mahindra Mutual Fund Equity Fund 6,-0.0323,10.28,0.0007,0.330822
+100006,DSP Mutual Fund Equity Fund 7,0.047,18.68,0.0016,0.145091
+100007,Aditya Birla Sun Life Mutual Fund Equity Fund 8,0.0328,5.26,0.0009,0.280286
+100008,UTI Mutual Fund Equity Fund 9,0.0193,6.8,0.0003,0.542142
+100009,Tata Mutual Fund Equity Fund 10,0.0504,8.71,0.002,0.104879
+100010,SBI Mutual Fund Equity Fund 11,-0.0165,23.56,0.0002,0.612282
+100011,HDFC Mutual Fund Equity Fund 12,0.0269,12.82,0.0006,0.394736
+100012,ICICI Prudential Mutual Fund Equity Fund 13,0.0256,15.61,0.0005,0.423981
+100013,Nippon India Mutual Fund Equity Fund 14,-0.0075,20.86,0.0,0.812647
+100014,Axis Mutual Fund Equity Fund 15,-0.0215,11.34,0.0004,0.490788
+100015,Kotak Mahindra Mutual Fund Equity Fund 16,-0.037,8.51,0.001,0.243116
+100016,DSP Mutual Fund Equity Fund 17,0.0062,17.32,0.0,0.839686
+100017,Aditya Birla Sun Life Mutual Fund Equity Fund 18,-0.0621,7.7,0.0028,0.054972
+100018,UTI Mutual Fund Equity Fund 19,0.0634,4.13,0.0036,0.030537
+100019,Tata Mutual Fund Equity Fund 20,0.019,17.8,0.0003,0.541108
+100020,SBI Mutual Fund Debt Fund 21,-0.0014,5.53,0.0,0.799814
+100021,HDFC Mutual Fund Debt Fund 22,0.0049,5.01,0.0006,0.395306
+100022,ICICI Prudential Mutual Fund Debt Fund 23,0.0055,4.36,0.0007,0.329767
+100023,Nippon India Mutual Fund Debt Fund 24,-0.0047,6.94,0.0005,0.423424
+100024,Axis Mutual Fund Debt Fund 25,0.0077,2.62,0.0014,0.184026
+100025,Kotak Mahindra Mutual Fund Debt Fund 26,0.0004,7.54,0.0,0.939812
+100026,DSP Mutual Fund Debt Fund 27,0.0046,3.65,0.0005,0.433601
+100027,Aditya Birla Sun Life Mutual Fund Debt Fund 28,0.0008,5.14,0.0,0.880497
+100028,UTI Mutual Fund Debt Fund 29,0.0086,4.19,0.002,0.104543
+100029,Tata Mutual Fund Debt Fund 30,-0.0047,5.7,0.0005,0.400892
+100030,SBI Mutual Fund Hybrid Fund 31,-0.0022,6.9,0.0004,0.497349
+100031,HDFC Mutual Fund Hybrid Fund 32,-0.0078,6.96,0.004,0.022014
+100032,ICICI Prudential Mutual Fund Hybrid Fund 33,-0.0041,6.04,0.0011,0.235947
+100033,Nippon India Mutual Fund Hybrid Fund 34,-0.0035,6.27,0.0008,0.296089
+100034,Axis Mutual Fund Hybrid Fund 35,-0.0017,6.18,0.0002,0.598003
+100035,Kotak Mahindra Mutual Fund Hybrid Fund 36,-0.0001,5.87,0.0,0.979654
+100036,DSP Mutual Fund Hybrid Fund 37,-0.005,5.78,0.0016,0.145854
+100037,Aditya Birla Sun Life Mutual Fund Solution-Oriented Fund 38,0.0083,4.51,0.0032,0.042775
+100038,UTI Mutual Fund Solution-Oriented Fund 39,0.0103,4.29,0.0051,0.009913
+100039,Tata Mutual Fund Solution-Oriented Fund 40,0.0054,4.66,0.0015,0.16785
